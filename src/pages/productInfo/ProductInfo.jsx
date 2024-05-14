@@ -151,8 +151,7 @@ const ProductInfo = () => {
                                         </div>
                                         <div className="flex gap-4 mb-6">
                                             <button
-                                                className="w-full px-4 py-3 text-center text-white-100 bg-cyan-500 border border-transparent dark:border-gray-700 hover:border-cyan-600 hover:text-black-700 hover:bg-cyan-600 rounded-xl"
-                                            >
+                                                className="w-full px-4 py-3 text-center text-white-100 bg-cyan-500 border border-transparent dark:border-gray-700 hover:border-cyan-600 hover:text-black-700 hover:bg-cyan-600 rounded-xl">
                                                 Buy now
                                             </button>
                                         </div>

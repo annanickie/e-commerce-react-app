@@ -18,7 +18,6 @@ const HomePage = () => {
             {/* <h1 className="text-red-600 font-bold text-3xl tracking-wide text-center">20% DISCOUNT on all Products!!!!!</h1> */}
             <HomePageProductCard/>
             <Track/>
-            {/* <Testimonial/> */}
             {/* <Loader></Loader> */}
         </Layout>
     );
